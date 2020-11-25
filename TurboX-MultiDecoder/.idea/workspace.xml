@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:remotes" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:remotes" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="252dc134-8323-4203-ac8b-425ca0cfe2fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/EDGE_Box_Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EDGE_Box_Client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/TSFlameDetector.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/TSObjectdetector-release.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/TSTrafficSignDetector.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/aip-java-sdk-4.11.1/aip-java-sdk-4.11.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/aip-java-sdk-4.11.1/json-20160810.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/aip-java-sdk-4.11.1/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/aip-java-sdk-4.11.1/slf4j-simple-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/dms_v0.1.0.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/facenn-release.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/ffmpeg-android-arm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/ffmpeg.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/javacpp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/javacv.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/libyuv-gcc.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/opencv-android-arm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/opencv.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/2.4.1/common-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/2.4.3/common-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.1/dao-api-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.1/dao-api-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.3/dao-api-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/2.4.3/dao-api-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/dao-api/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.1/data-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.1/data-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.3/data-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/2.4.3/data-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/data/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.1/message-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.1/message-2.4.1.jar.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.1/message-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.1/message-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.3/message-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/2.4.3/message-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/message/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/0.0.1/queue-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.1/queue-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.1/queue-2.4.1.jar.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.1/queue-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.1/queue-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.3/queue-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/2.4.3/queue-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/queue/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/2.4.1/transport-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/2.4.3/transport-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/0.0.1/coap-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.1/coap-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.1/coap-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.1/coap-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.3/coap-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/2.4.3/coap-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/coap/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/0.0.1/http-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.1/http-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.1/http-2.4.1.jar.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.1/http-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.1/http-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.3/http-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/2.4.3/http-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/http/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/0.0.1/mqtt-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.1/mqtt-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.1/mqtt-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.1/mqtt-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.3/mqtt-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/2.4.3/mqtt-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/mqtt/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/0.0.1/transport-api-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.1/transport-api-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.1/transport-api-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.1/transport-api-2.4.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.3/transport-api-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/2.4.3/transport-api-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/transport/transport-api/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/0.0.1/util-0.0.1.pom.lastUpdated" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.1/util-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.1/util-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.3/util-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/2.4.3/util-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/common/util/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.1/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.1/netty-mqtt-2.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.1/netty-mqtt-2.4.1.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.3/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.3/netty-mqtt-2.4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/2.4.3/netty-mqtt-2.4.3.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/thingsboard/netty-mqtt/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/android_dmsnn.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/android_facesdk.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libcalculator_domains_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libcalculator_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libsnpe_dsp_domains_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libsnpe_dsp_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libsnpe_dsp_v65_domains_v2_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/dsp/libsnpe_dsp_v66_domains_v2_skel.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/database/PrefHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/DataInputFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/FaceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/FaceInputTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/FaceOutTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/FaceSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/FlameInputTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/ObjectConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/ObjectDectorTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/TrafficInputTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/BitmapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/DmsFaceSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/DmsFaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/DmsInputTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/DrawPose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/PrefHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/bean/EventSendDmsFaceRectBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/bean/MatBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/dms/bean/updateDmsBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/AI/faceDetectResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/BaseActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/RtspListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/RtspListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/RtspManagerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/RtspManagerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Activity/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Adapter/RtspItemAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Adapter/RtspItemAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Config/GlobalConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Config/GlobalConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Constants/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Constants/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/EventBusManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/EventBusManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/GLFrameRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/GLProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/IVCGLLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/IVCGLLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/MyGLSurfaceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Gl/MyGLSurfaceView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Jni.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Jni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/CarIdentificationResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/FaceIdentificationResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/FaceRectResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/ObjectRectResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/RtspItemCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/RtspItemCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/UploadCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/UploadFace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Model/UploadSmartRetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Thread/DistributeThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Thread/ReportingInfoThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ActivityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ActivityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/BitmapUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ConfigUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/CropImage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/DataCleanManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/EventBusUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ImageUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/LogUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/LogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/NetUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/NetWorkSpeedUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/NetWorkSpeedUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/PreferencesUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/PreferencesUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ToastUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Utils/ToastUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/DmsPlayFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/FaceDetectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/FlameFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/FloatLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/FloatLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/ObjectDetectFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/PlayFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/PlayFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/PopView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/PopView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VIew/TrafficPlayFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VideoProvider/BaseProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/VideoProvider/RtspVieoProviderManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/carDetect/aipOcrClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/carDetect/carPlateLicenseDetect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/carDetect/ocrDetectResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/facedb/FaceDbManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/GateWayContanst.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/GateWayContanst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/data/DeviceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/utils/JsonTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/gateway/utils/JsonTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/libyuv/util/YuvUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/libyuv/util/YuvUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/LocalVideoDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/LocalVideoDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsDecodeThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsDecodeThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsIplayerStateListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsIplayerStateListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsPcmData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsPcmData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsRtspNative.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsRtspNative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsVideoDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/rtsp/TsVideoDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/FileUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/HttpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/LogClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/NetUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/ShellCommandUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/StringToHex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/WriteFileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/thundercomm/util/WsseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/com_thundercomm_rtsp_TsRtspNativeJni.h" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/com_thundercomm_rtsp_TsRtspNativeJni.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/arm64-v8a/libopencv_java4.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/armeabi-v7a/libopencv_java4.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/x86/libopencv_java4.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jniLibs/x86_64/libopencv_java4.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ebox_face_rect.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ebox_object_rect.9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/rtsp_edit_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/rtsp_edit_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/arrays.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/root_preferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/root_preferences.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/appcompat/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/cardview/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/constraintlayout/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/gridlayout/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/lifecycle/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/preference/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/recyclerview/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/espresso/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/ext/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/androidx/test/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/group-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/consumer-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/maven_local.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/src/androidTest/java/com/thundersoft/modela/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/src/main/java/com/thundersoft/modela/TestA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulea/src/test/java/com/thundersoft/modela/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/opencv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/AsyncServiceHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/BaseLoaderCallback.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/Camera2Renderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/CameraBridgeViewBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/CameraGLRendererBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/CameraGLSurfaceView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/CameraRenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/FpsMeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/InstallCallbackInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/JavaCamera2View.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/JavaCameraView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/LoaderCallbackInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/OpenCVLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/StaticHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/android/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/calib3d/Calib3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/calib3d/StereoBM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/calib3d/StereoMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/calib3d/StereoSGBM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Algorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Core.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/CvException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/CvType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/DMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/KeyPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Mat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfByte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfDMatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfFloat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfFloat4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfFloat6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfInt4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfKeyPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfPoint2f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfPoint3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfPoint3f.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfRect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfRect2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/MatOfRotatedRect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Point3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Range.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Rect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Rect2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/RotatedRect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Scalar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/Size.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/TermCriteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/core/TickMeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/dnn/DictValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/dnn/Dnn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/dnn/Layer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/dnn/Net.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/AKAZE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/AgastFeatureDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/BFMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/BOWImgDescriptorExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/BOWKMeansTrainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/BOWTrainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/BRISK.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/DescriptorMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/FastFeatureDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/Feature2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/Features2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/FlannBasedMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/GFTTDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/KAZE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/MSER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/ORB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/features2d/Params.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgcodecs/Imgcodecs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/CLAHE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/GeneralizedHough.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/GeneralizedHoughBallard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/GeneralizedHoughGuil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/Imgproc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/LineSegmentDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/Moments.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/imgproc/Subdiv2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/ANN_MLP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/Boost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/DTrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/EM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/KNearest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/LogisticRegression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/Ml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/NormalBayesClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/ParamGrid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/RTrees.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/SVM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/SVMSGD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/StatModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/ml/TrainData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/objdetect/BaseCascadeClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/objdetect/CascadeClassifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/objdetect/HOGDescriptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/objdetect/Objdetect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/objdetect/QRCodeDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/osgi/OpenCVInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/osgi/OpenCVNativeLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/AlignExposures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/AlignMTB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/CalibrateCRF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/CalibrateDebevec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/CalibrateRobertson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/MergeDebevec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/MergeExposures.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/MergeMertens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/MergeRobertson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/Photo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/Tonemap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/TonemapDrago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/TonemapMantiuk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/photo/TonemapReinhard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/utils/Converters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/BackgroundSubtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/BackgroundSubtractorKNN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/BackgroundSubtractorMOG2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/DISOpticalFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/DenseOpticalFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/FarnebackOpticalFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/KalmanFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/SparseOpticalFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/SparsePyrLKOpticalFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/VariationalRefinement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/video/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/videoio/VideoCapture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/videoio/VideoWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/java/org/opencv/videoio/Videoio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/opencv/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/modela">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/modulea">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="EDGE_Box_Client" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/poc_edgebox2.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1dAidA2DyJ855dwLX6dZWfvZqjl" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+    <property name="ApkExportedModule" value="app" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="593e06b9" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-11-19T05:08:53.603Z" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/opencv" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/modela" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.thundercomm.eBox.Activity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thundercomm.eBox.AI" />
+      <recent name="com.thundercomm.eBox.egl" />
+      <recent name="com.thundercomm.eBox.Gl" />
+      <recent name="com.thundercomm.ptzControl" />
+      <recent name="com.thundercomm.gateway.data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/libs" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+      <command value="gradle clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.App [clean]">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="EDGE_Box_Client.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="App [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="App [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="App [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="App:modulea [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/modulea" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="uploadArchives" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.App [uploadArchives]" />
+        <item itemvalue="Gradle.App [build]" />
+        <item itemvalue="Gradle.App:modulea [uploadArchives]" />
+        <item itemvalue="Gradle.App [dependencies]" />
+        <item itemvalue="Gradle.App [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="252dc134-8323-4203-ac8b-425ca0cfe2fb" name="Default Changelist" comment="" />
+      <created>1591874382639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591874382639</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="faceRectFix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="faceRectFix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="faceRectFix" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="4">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="5">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="POC_Edge_box-dev" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/user/wang/project/POC_EDGEBOX_new/App/app/libs" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/user/wang/project/POC_EDGEBOX_new/App/app/sampledata" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+        <entry key="3" value="TOOL_WINDOW" />
+        <entry key="4" value="TOOL_WINDOW" />
+        <entry key="5" value="TOOL_WINDOW" />
+        <entry key="6" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="playLocat" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="POC_Edge_box-dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="POC_Edge_box-dev-car" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="RoundLook_getDecodeBuffer" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/POC_Edge_box-dev-car" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="faceRectFix" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/POC_Edge_box-dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="remotes/origin/POC_Edge_box-dev" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="fortest" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="210" y="181" width="1475" height="829" key="#PSD" timestamp="1606209480824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="210" y="181" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1606209480824" />
+    <state x="268" y="208" width="1475" height="829" key="#PSD/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254996741" />
+    <state x="492" y="116" key="#Plugins" timestamp="1605254041385">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="492" y="116" key="#Plugins/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254041385" />
+    <state x="671" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606209522490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="671" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606209522490" />
+    <state x="663" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605256848935">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="663" y="336" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605256848935" />
+    <state x="688" y="211" key="FileChooserDialogImpl" timestamp="1606209471608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="211" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606209471608" />
+    <state x="730" y="238" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605256518961" />
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom" timestamp="1606210521347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606210521347" />
+    <state width="1799" height="3" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605264171438" />
+    <state width="1877" height="223" key="GridCell.Tab.0.center" timestamp="1606210521347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606210521347" />
+    <state width="1799" height="3" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605264171438" />
+    <state width="1877" height="223" key="GridCell.Tab.0.left" timestamp="1606210521347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606210521347" />
+    <state width="1799" height="3" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605264171438" />
+    <state width="1877" height="223" key="GridCell.Tab.0.right" timestamp="1606210521347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="223" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606210521347" />
+    <state width="1799" height="3" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605264171438" />
+    <state x="280" y="177" key="SettingsEditor" timestamp="1605256580065">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="280" y="177" key="SettingsEditor/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605256580065" />
+    <state x="580" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1605255196485">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="580" y="328" key="com.intellij.ide.util.TipDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605255196485" />
+    <state x="563" y="208" width="858" height="654" key="find.popup" timestamp="1605254633395">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="563" y="208" width="858" height="654" key="find.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254633395" />
+    <state x="622" y="448" key="psd.add.jar.dependency.panel.dimension" timestamp="1605254995737">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="622" y="448" key="psd.add.jar.dependency.panel.dimension/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254995737" />
+    <state x="385" y="339" key="psd.add.library.dependency.panel.dimension" timestamp="1605254868908">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="385" y="339" key="psd.add.library.dependency.panel.dimension/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254868908" />
+    <state x="571" y="44" width="840" height="1034" key="run.anything.popup" timestamp="1605254355113">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="571" y="44" width="840" height="1034" key="run.anything.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254355113" />
+    <state x="571" y="44" width="840" height="1034" key="search.everywhere.popup" timestamp="1605254027608">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="571" y="44" width="840" height="1034" key="search.everywhere.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605254027608" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/thundercomm/eBox/Data/HandleData.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,119 @@
+{
+  "buildFiles": [
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\libyuv\\libyuv\\CM_linux_packages.cmake",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\RtspClient\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\liveMedia\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\libyuv\\libyuv\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\libbitmap\\CMakeLists.txt",
+    "G:\\Android-SDK\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\libyuv\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\CMakeLists.txt",
+    "G:\\Android-SDK\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\groupsock\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\jni\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\UsageEnvironment\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\src\\main\\cpp\\BasicUsageEnvironment\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yuv_shared-Release-arm64-v8a": {
+      "artifactName": "yuv_shared",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" yuv_shared",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libyuv.so",
+      "runtimeFiles": []
+    },
+    "yuv-Release-arm64-v8a": {
+      "artifactName": "yuv",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" yuv",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\\src\\main\\cpp\\libyuv\\build\\libyuv.a",
+      "runtimeFiles": []
+    },
+    "bitmaputil-Release-arm64-v8a": {
+      "artifactName": "bitmaputil",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" bitmaputil",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libbitmaputil.so",
+      "runtimeFiles": []
+    },
+    "UsageEnvironment-Release-arm64-v8a": {
+      "artifactName": "UsageEnvironment",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" UsageEnvironment",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libUsageEnvironment.so",
+      "runtimeFiles": []
+    },
+    "BasicUsageEnvironment-Release-arm64-v8a": {
+      "artifactName": "BasicUsageEnvironment",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" BasicUsageEnvironment",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libBasicUsageEnvironment.so",
+      "runtimeFiles": []
+    },
+    "yuvutil-Release-arm64-v8a": {
+      "artifactName": "yuvutil",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" yuvutil",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libyuvutil.so",
+      "runtimeFiles": []
+    },
+    "yuvconvert-Release-arm64-v8a": {
+      "artifactName": "yuvconvert",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" yuvconvert",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\\src\\main\\cpp\\libyuv\\build\\yuvconvert",
+      "runtimeFiles": []
+    },
+    "groupsock-Release-arm64-v8a": {
+      "artifactName": "groupsock",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" groupsock",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libgroupsock.so",
+      "runtimeFiles": []
+    },
+    "liveMedia-Release-arm64-v8a": {
+      "artifactName": "liveMedia",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" liveMedia",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libliveMedia.so",
+      "runtimeFiles": []
+    },
+    "RtspClientJni-Release-arm64-v8a": {
+      "artifactName": "RtspClientJni",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" RtspClientJni",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libRtspClientJni.so",
+      "runtimeFiles": [
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libRtspClient.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libBasicUsageEnvironment.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libgroupsock.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libliveMedia.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libUsageEnvironment.so"
+      ]
+    },
+    "RtspClient-Release-arm64-v8a": {
+      "artifactName": "RtspClient",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" RtspClient",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libRtspClient.so",
+      "runtimeFiles": [
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libBasicUsageEnvironment.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libgroupsock.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libliveMedia.so",
+        "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libUsageEnvironment.so"
+      ]
+    },
+    "affinitylib-Release-arm64-v8a": {
+      "artifactName": "affinitylib",
+      "buildCommand": "G:\\Android-SDK\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"H:\\Flamingos6\\demos\\Flamingos\\App\\app\\.cxx\\cmake\\release\\arm64-v8a\" affinitylib",
+      "abi": "arm64-v8a",
+      "output": "H:\\Flamingos6\\demos\\Flamingos\\App\\app\\libs\\arm64-v8a\\libaffinitylib.so",
+      "runtimeFiles": []
+    }
+  }
+}
